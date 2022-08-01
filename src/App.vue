@@ -19,6 +19,6 @@ export default {
   color:white;
 }
 body{
-  background-color: dimgrey;
+  background-color:#daebed;
 }
 </style>
